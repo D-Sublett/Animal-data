@@ -12,7 +12,7 @@ source	           animals adopted	    intake	          # euthanized	       year
 ASPCA	              3.2 mil       	    6.5 mil         	1.5 mil            	N/A
 Bestfriends.org	    N/A	               5.4 mil	          625,000	            2019
 Human Society	      4 mil	              6-8 mil          	3 mil	              2021
-Petpedia.co		      6 mil	                N/A             625000 in 2019	    2021
+Petpedia.co		        N/A                     6 mil	            625000 in 2019	    2021
 
 
 Ok so we have some problems with the data and missing data. This is not great. Might cut the year catagory as none of these guys were consitant with years. Might examine intake versus 
@@ -22,3 +22,6 @@ are all over the place.
 Plan of attack, Cut year collumn, find adverages and fill in missing data, plot the data, sucess! 
 
 I think a scatter plot will be best. We will try it.
+
+
+Change of plan. Cutting the year and adopted section as bith aren't great and the intake vs Euthanized is better data.
