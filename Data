@@ -5,3 +5,18 @@ https://www.humanesociety.org/resources/pets-numbers
 25% of shelter dogs are purebred
 4 million cats and dogs are adopted each year
 10,000 rescue groups excist
+
+
+
+source	           animals adopted	    intake	          # euthanized	       year
+ASPCA	              3.2 mil       	    6.5 mil         	1.5 mil            	N/A
+Bestfriends.org	    N/A	               5.4 mil	          625,000	            2019
+Human Society	      4 mil	              6-8 mil          	3 mil	              2021
+Petpedia.co		      6 mil	                N/A             625000 in 2019	    2021
+
+
+Ok so we have some problems with the data and missing data. This is not great. Might cut the year catagory as none of these guys were consitant with years. Might examine intake versus 
+euthanized colored by adoption. For missing data I will adverage the collomn and suplenemt the adverage into the space below. I wish I could at least have years but alas the years given
+are all over the place.
+
+Plan of attack, Cut year collumn, find adverages and fill in missing data, plot the data, sucess! 
