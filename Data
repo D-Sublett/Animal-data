@@ -25,3 +25,17 @@ I think a scatter plot will be best. We will try it.
 
 
 Change of plan. Cutting the year and adopted section as bith aren't great and the intake vs Euthanized is better data. going to change the Humane society to 7 as an adverage
+
+
+
+Here is the code I ran through R
+
+```{r b}
+personal_data <- read.csv("personal_data.csv")
+library(GGally)
+
+
+ggplot(data = personal_data, mapping = aes(x=intake, y=euthanized)) + geom_point()
+
+
+```
